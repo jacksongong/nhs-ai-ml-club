@@ -12,7 +12,6 @@ x_data=np_data[:,0]
 y_data=np_data[:,1]
 
 
-
 print("X data:", x_data)
 print("Standard deviation of data:", x_data.std())
 print("Mean of data:", x_data.mean())
